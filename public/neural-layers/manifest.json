@@ -1,0 +1,991 @@
+{
+  "width": 768,
+  "height": 1024,
+  "neuronCount": 54,
+  "groupCount": 25,
+  "dataset": "male-cns:v1.0",
+  "anatomyBase": "anatomy-base.png",
+  "projection": {
+    "type": "orthographic",
+    "horizontal": "negative source x",
+    "vertical": "positive source z",
+    "depth": "source y (projected out)",
+    "pixelsPerVoxel": 0.00775062913561189,
+    "sourceVoxelNanometres": 8,
+    "sourceCenter": [
+      48068.0,
+      72342.5
+    ],
+    "pixelCenter": [
+      384,
+      512
+    ]
+  },
+  "groups": [
+    {
+      "type": "AN19B001",
+      "role": "modeled downstream",
+      "layer": "layers/AN19B001.png",
+      "count": 1,
+      "cells": [
+        {
+          "bodyId": "17757",
+          "side": "R",
+          "sourceSoma": [
+            41667.0,
+            45697.0,
+            81360.0
+          ],
+          "pixelCenter": [
+            433.611777,
+            581.89129825
+          ],
+          "skeletonSamples": 17709
+        }
+      ]
+    },
+    {
+      "type": "AN19B017",
+      "role": "modeled downstream",
+      "layer": "layers/AN19B017.png",
+      "count": 2,
+      "cells": [
+        {
+          "bodyId": "10840",
+          "side": "R",
+          "sourceSoma": [
+            38259.0,
+            47521.0,
+            84275.0
+          ],
+          "pixelCenter": [
+            460.02592125,
+            604.48438225
+          ],
+          "skeletonSamples": 13502
+        },
+        {
+          "bodyId": "11064",
+          "side": "L",
+          "sourceSoma": [
+            58065.0,
+            47227.0,
+            81226.0
+          ],
+          "pixelCenter": [
+            306.5169605,
+            580.852714
+          ],
+          "skeletonSamples": 13386
+        }
+      ]
+    },
+    {
+      "type": "AstA1",
+      "role": "modeled downstream",
+      "layer": "layers/AstA1.png",
+      "count": 2,
+      "cells": [
+        {
+          "bodyId": "10035",
+          "side": "L",
+          "sourceSoma": [
+            59498.0,
+            36573.0,
+            19959.0
+          ],
+          "pixelCenter": [
+            295.410309,
+            105.99491875
+          ],
+          "skeletonSamples": 29449
+        },
+        {
+          "bodyId": "10299",
+          "side": "R",
+          "sourceSoma": [
+            38329.0,
+            39307.0,
+            22026.0
+          ],
+          "pixelCenter": [
+            459.48337725,
+            122.015469
+          ],
+          "skeletonSamples": 28234
+        }
+      ]
+    },
+    {
+      "type": "CL208",
+      "role": "BPN candidate",
+      "layer": "layers/CL208.png",
+      "count": 4,
+      "cells": [
+        {
+          "bodyId": "18752",
+          "side": "L",
+          "sourceSoma": [
+            50606.0,
+            9037.0,
+            28181.0
+          ],
+          "pixelCenter": [
+            364.32890325,
+            169.7205915
+          ],
+          "skeletonSamples": 4314
+        },
+        {
+          "bodyId": "29973",
+          "side": "R",
+          "sourceSoma": [
+            46880.0,
+            11342.0,
+            27508.0
+          ],
+          "pixelCenter": [
+            393.2077475,
+            164.504418
+          ],
+          "skeletonSamples": 4015
+        },
+        {
+          "bodyId": "513541",
+          "side": "L",
+          "sourceSoma": [
+            52560.0,
+            10666.0,
+            28910.0
+          ],
+          "pixelCenter": [
+            349.184174,
+            175.3708
+          ],
+          "skeletonSamples": 4416
+        },
+        {
+          "bodyId": "530982",
+          "side": "R",
+          "sourceSoma": [
+            45907.0,
+            11302.0,
+            27281.0
+          ],
+          "pixelCenter": [
+            400.7491095,
+            162.74502525
+          ],
+          "skeletonSamples": 3141
+        }
+      ]
+    },
+    {
+      "type": "CL209",
+      "role": "BPN candidate",
+      "layer": "layers/CL209.png",
+      "count": 2,
+      "cells": [
+        {
+          "bodyId": "13100",
+          "side": "L",
+          "sourceSoma": [
+            50159.0,
+            8661.0,
+            27320.0
+          ],
+          "pixelCenter": [
+            367.7934345,
+            163.04729975
+          ],
+          "skeletonSamples": 2446
+        },
+        {
+          "bodyId": "520065",
+          "side": "R",
+          "sourceSoma": [
+            46306.0,
+            10994.0,
+            27536.0
+          ],
+          "pixelCenter": [
+            397.6566085,
+            164.72143575
+          ],
+          "skeletonSamples": 2254
+        }
+      ]
+    },
+    {
+      "type": "CRE004",
+      "role": "modeled downstream",
+      "layer": "layers/CRE004.png",
+      "count": 1,
+      "cells": [
+        {
+          "bodyId": "10368",
+          "side": "L",
+          "sourceSoma": [
+            48081.0,
+            6774.0,
+            18285.0
+          ],
+          "pixelCenter": [
+            383.89924175,
+            93.0203655
+          ],
+          "skeletonSamples": 10194
+        }
+      ]
+    },
+    {
+      "type": "DNg100",
+      "role": "modeled downstream",
+      "layer": "layers/DNg100.png",
+      "count": 2,
+      "cells": [
+        {
+          "bodyId": "10045",
+          "side": "L",
+          "sourceSoma": [
+            60784.0,
+            39259.0,
+            24368.0
+          ],
+          "pixelCenter": [
+            285.443,
+            140.1674425
+          ],
+          "skeletonSamples": 23904
+        },
+        {
+          "bodyId": "10056",
+          "side": "R",
+          "sourceSoma": [
+            36306.0,
+            40516.0,
+            24466.0
+          ],
+          "pixelCenter": [
+            475.1629,
+            140.92700425
+          ],
+          "skeletonSamples": 24387
+        }
+      ]
+    },
+    {
+      "type": "DNg97",
+      "role": "modeled downstream",
+      "layer": "layers/DNg97.png",
+      "count": 1,
+      "cells": [
+        {
+          "bodyId": "13805",
+          "side": "L",
+          "sourceSoma": [
+            52141.0,
+            45094.0,
+            21413.0
+          ],
+          "pixelCenter": [
+            352.4316875,
+            117.2643335
+          ],
+          "skeletonSamples": 12356
+        }
+      ]
+    },
+    {
+      "type": "DNge053",
+      "role": "modeled downstream",
+      "layer": "layers/DNge053.png",
+      "count": 2,
+      "cells": [
+        {
+          "bodyId": "10844",
+          "side": "L",
+          "sourceSoma": [
+            62950.0,
+            38586.0,
+            25745.0
+          ],
+          "pixelCenter": [
+            268.65513725,
+            150.84005875
+          ],
+          "skeletonSamples": 16616
+        },
+        {
+          "bodyId": "11965",
+          "side": "R",
+          "sourceSoma": [
+            36904.0,
+            40586.0,
+            23470.0
+          ],
+          "pixelCenter": [
+            470.52802375,
+            133.2073775
+          ],
+          "skeletonSamples": 15177
+        }
+      ]
+    },
+    {
+      "type": "DNpe053",
+      "role": "modeled downstream",
+      "layer": "layers/DNpe053.png",
+      "count": 1,
+      "cells": [
+        {
+          "bodyId": "20418",
+          "side": "R",
+          "sourceSoma": [
+            45900.0,
+            8479.0,
+            26583.0
+          ],
+          "pixelCenter": [
+            400.803364,
+            157.335086
+          ],
+          "skeletonSamples": 14613
+        }
+      ]
+    },
+    {
+      "type": "EA06B010",
+      "role": "modeled downstream",
+      "layer": "layers/EA06B010.png",
+      "count": 2,
+      "cells": [
+        {
+          "bodyId": "63441",
+          "side": "L",
+          "sourceSoma": [
+            51437.0,
+            66196.0,
+            95955.0
+          ],
+          "pixelCenter": [
+            357.8881305,
+            695.0117305
+          ],
+          "skeletonSamples": 10018
+        },
+        {
+          "bodyId": "75379",
+          "side": "R",
+          "sourceSoma": [
+            47951.0,
+            65216.0,
+            93851.0
+          ],
+          "pixelCenter": [
+            384.9068235,
+            678.70440675
+          ],
+          "skeletonSamples": 9830
+        }
+      ]
+    },
+    {
+      "type": "GNG103",
+      "role": "modeled downstream",
+      "layer": "layers/GNG103.png",
+      "count": 1,
+      "cells": [
+        {
+          "bodyId": "10202",
+          "side": "R",
+          "sourceSoma": [
+            36693.0,
+            39264.0,
+            21735.0
+          ],
+          "pixelCenter": [
+            472.1634065,
+            119.760036
+          ],
+          "skeletonSamples": 16487
+        }
+      ]
+    },
+    {
+      "type": "GNG667",
+      "role": "modeled downstream",
+      "layer": "layers/GNG667.png",
+      "count": 1,
+      "cells": [
+        {
+          "bodyId": "10420",
+          "side": "L",
+          "sourceSoma": [
+            50405.0,
+            42194.0,
+            37579.0
+          ],
+          "pixelCenter": [
+            365.88677975,
+            242.561004
+          ],
+          "skeletonSamples": 15408
+        }
+      ]
+    },
+    {
+      "type": "IB008",
+      "role": "modeled downstream",
+      "layer": "layers/IB008.png",
+      "count": 2,
+      "cells": [
+        {
+          "bodyId": "10166",
+          "side": "L",
+          "sourceSoma": [
+            60717.0,
+            25771.0,
+            18601.0
+          ],
+          "pixelCenter": [
+            285.962292,
+            95.46956425
+          ],
+          "skeletonSamples": 8277
+        },
+        {
+          "bodyId": "26862",
+          "side": "R",
+          "sourceSoma": [
+            36055.0,
+            24409.0,
+            17904.0
+          ],
+          "pixelCenter": [
+            477.10830775,
+            90.06737575
+          ],
+          "skeletonSamples": 9038
+        }
+      ]
+    },
+    {
+      "type": "IB010",
+      "role": "modeled downstream",
+      "layer": "layers/IB010.png",
+      "count": 1,
+      "cells": [
+        {
+          "bodyId": "522335",
+          "side": "L",
+          "sourceSoma": [
+            61598.0,
+            23326.0,
+            16954.0
+          ],
+          "pixelCenter": [
+            279.13398775,
+            82.704278
+          ],
+          "skeletonSamples": 7040
+        }
+      ]
+    },
+    {
+      "type": "IB018",
+      "role": "modeled downstream",
+      "layer": "layers/IB018.png",
+      "count": 2,
+      "cells": [
+        {
+          "bodyId": "11208",
+          "side": "L",
+          "sourceSoma": [
+            51771.0,
+            11553.0,
+            30138.0
+          ],
+          "pixelCenter": [
+            355.29942025,
+            184.88857275
+          ],
+          "skeletonSamples": 9675
+        },
+        {
+          "bodyId": "521028",
+          "side": "R",
+          "sourceSoma": [
+            42740.0,
+            12878.0,
+            30123.0
+          ],
+          "pixelCenter": [
+            425.295352,
+            184.77231325
+          ],
+          "skeletonSamples": 9715
+        }
+      ]
+    },
+    {
+      "type": "IN09A002",
+      "role": "modeled downstream",
+      "layer": "layers/IN09A002.png",
+      "count": 4,
+      "cells": [
+        {
+          "bodyId": "800296",
+          "side": "L",
+          "sourceSoma": [
+            62706.0,
+            52392.0,
+            89984.0
+          ],
+          "pixelCenter": [
+            270.54629075,
+            648.732724
+          ],
+          "skeletonSamples": 9253
+        },
+        {
+          "bodyId": "800434",
+          "side": "L",
+          "sourceSoma": [
+            61212.0,
+            49328.0,
+            120290.0
+          ],
+          "pixelCenter": [
+            282.12573075,
+            883.6232905
+          ],
+          "skeletonSamples": 9597
+        },
+        {
+          "bodyId": "800685",
+          "side": "L",
+          "sourceSoma": [
+            60079.0,
+            53817.0,
+            64497.0
+          ],
+          "pixelCenter": [
+            290.9071935,
+            451.192439
+          ],
+          "skeletonSamples": 8444
+        },
+        {
+          "bodyId": "800716",
+          "side": "R",
+          "sourceSoma": [
+            41078.0,
+            46957.0,
+            122629.0
+          ],
+          "pixelCenter": [
+            438.17689775,
+            901.752012
+          ],
+          "skeletonSamples": 8787
+        }
+      ]
+    },
+    {
+      "type": "IN12B003",
+      "role": "modeled downstream",
+      "layer": "layers/IN12B003.png",
+      "count": 1,
+      "cells": [
+        {
+          "bodyId": "941319",
+          "side": "L",
+          "sourceSoma": [
+            51979.0,
+            62700.0,
+            83619.0
+          ],
+          "pixelCenter": [
+            353.6872895,
+            599.3999695
+          ],
+          "skeletonSamples": 7726
+        }
+      ]
+    },
+    {
+      "type": "LAL134",
+      "role": "modeled downstream",
+      "layer": "layers/LAL134.png",
+      "count": 1,
+      "cells": [
+        {
+          "bodyId": "520613",
+          "side": "L",
+          "sourceSoma": [
+            49766.0,
+            9373.0,
+            25948.0
+          ],
+          "pixelCenter": [
+            370.83943175,
+            152.4134365
+          ],
+          "skeletonSamples": 10605
+        }
+      ]
+    },
+    {
+      "type": "LoVC3",
+      "role": "modeled downstream",
+      "layer": "layers/LoVC3.png",
+      "count": 1,
+      "cells": [
+        {
+          "bodyId": "11013",
+          "side": "R",
+          "sourceSoma": [
+            36278.0,
+            27106.0,
+            19419.0
+          ],
+          "pixelCenter": [
+            475.3799175,
+            101.809579
+          ],
+          "skeletonSamples": 10241
+        }
+      ]
+    },
+    {
+      "type": "PAL01",
+      "role": "modeled downstream",
+      "layer": "layers/PAL01.png",
+      "count": 1,
+      "cells": [
+        {
+          "bodyId": "512273",
+          "side": "L",
+          "sourceSoma": [
+            65665.0,
+            12728.0,
+            19791.0
+          ],
+          "pixelCenter": [
+            247.612179,
+            104.692813
+          ],
+          "skeletonSamples": 12218
+        }
+      ]
+    },
+    {
+      "type": "SMP459",
+      "role": "BPN candidate",
+      "layer": "layers/SMP459.png",
+      "count": 8,
+      "cells": [
+        {
+          "bodyId": "24366",
+          "side": "L",
+          "sourceSoma": [
+            49588.0,
+            7268.0,
+            24648.0
+          ],
+          "pixelCenter": [
+            372.21904375,
+            142.33761875
+          ],
+          "skeletonSamples": 3422
+        },
+        {
+          "bodyId": "41079",
+          "side": "L",
+          "sourceSoma": [
+            50526.0,
+            7554.0,
+            27256.0
+          ],
+          "pixelCenter": [
+            364.9489535,
+            162.5512595
+          ],
+          "skeletonSamples": 3632
+        },
+        {
+          "bodyId": "52443",
+          "side": "R",
+          "sourceSoma": [
+            46604.0,
+            7116.0,
+            23570.0
+          ],
+          "pixelCenter": [
+            395.346921,
+            133.9824405
+          ],
+          "skeletonSamples": 3344
+        },
+        {
+          "bodyId": "71999",
+          "side": "L",
+          "sourceSoma": [
+            49244.0,
+            7364.0,
+            24037.0
+          ],
+          "pixelCenter": [
+            374.88526025,
+            137.60198425
+          ],
+          "skeletonSamples": 3470
+        },
+        {
+          "bodyId": "98403",
+          "side": "R",
+          "sourceSoma": [
+            46026.0,
+            7614.0,
+            24800.0
+          ],
+          "pixelCenter": [
+            399.82678475,
+            143.51571425
+          ],
+          "skeletonSamples": 3205
+        },
+        {
+          "bodyId": "512718",
+          "side": "L",
+          "sourceSoma": [
+            50047.0,
+            7695.0,
+            25948.0
+          ],
+          "pixelCenter": [
+            368.661505,
+            152.4134365
+          ],
+          "skeletonSamples": 3175
+        },
+        {
+          "bodyId": "514805",
+          "side": "R",
+          "sourceSoma": [
+            46065.0,
+            6684.0,
+            22851.0
+          ],
+          "pixelCenter": [
+            399.52451025,
+            128.40973825
+          ],
+          "skeletonSamples": 2777
+        },
+        {
+          "bodyId": "534477",
+          "side": "R",
+          "sourceSoma": [
+            46834.0,
+            7585.0,
+            23935.0
+          ],
+          "pixelCenter": [
+            393.56427625,
+            136.81142
+          ],
+          "skeletonSamples": 3576
+        }
+      ]
+    },
+    {
+      "type": "SMP460",
+      "role": "BPN candidate",
+      "layer": "layers/SMP460.png",
+      "count": 2,
+      "cells": [
+        {
+          "bodyId": "52439",
+          "side": "L",
+          "sourceSoma": [
+            50656.0,
+            8620.0,
+            27320.0
+          ],
+          "pixelCenter": [
+            363.94137175,
+            163.04729975
+          ],
+          "skeletonSamples": 2884
+        },
+        {
+          "bodyId": "522339",
+          "side": "R",
+          "sourceSoma": [
+            46142.0,
+            8755.0,
+            26070.0
+          ],
+          "pixelCenter": [
+            398.92771175,
+            153.35901325
+          ],
+          "skeletonSamples": 3143
+        }
+      ]
+    },
+    {
+      "type": "SMP461",
+      "role": "BPN candidate",
+      "layer": "layers/SMP461.png",
+      "count": 8,
+      "cells": [
+        {
+          "bodyId": "42886",
+          "side": "L",
+          "sourceSoma": [
+            52107.0,
+            11472.0,
+            28867.0
+          ],
+          "pixelCenter": [
+            352.695209,
+            175.037523
+          ],
+          "skeletonSamples": 2192
+        },
+        {
+          "bodyId": "104087",
+          "side": "L",
+          "sourceSoma": [
+            49773.0,
+            7377.0,
+            26177.0
+          ],
+          "pixelCenter": [
+            370.78517725,
+            154.18833075
+          ],
+          "skeletonSamples": 2637
+        },
+        {
+          "bodyId": "115463",
+          "side": "R",
+          "sourceSoma": [
+            46352.0,
+            10010.0,
+            26612.0
+          ],
+          "pixelCenter": [
+            397.3000795,
+            157.55985425
+          ],
+          "skeletonSamples": 2559
+        },
+        {
+          "bodyId": "118160",
+          "side": "R",
+          "sourceSoma": [
+            46779.0,
+            8524.0,
+            25964.0
+          ],
+          "pixelCenter": [
+            393.990561,
+            152.53744675
+          ],
+          "skeletonSamples": 2429
+        },
+        {
+          "bodyId": "147120",
+          "side": "R",
+          "sourceSoma": [
+            46053.0,
+            7182.0,
+            25018.0
+          ],
+          "pixelCenter": [
+            399.61751775,
+            145.2053515
+          ],
+          "skeletonSamples": 2055
+        },
+        {
+          "bodyId": "158549",
+          "side": "R",
+          "sourceSoma": [
+            47292.0,
+            8832.0,
+            25200.0
+          ],
+          "pixelCenter": [
+            390.01448825,
+            146.615966
+          ],
+          "skeletonSamples": 2489
+        },
+        {
+          "bodyId": "196917",
+          "side": "L",
+          "sourceSoma": [
+            50488.0,
+            6679.0,
+            26133.0
+          ],
+          "pixelCenter": [
+            365.2434775,
+            153.847303
+          ],
+          "skeletonSamples": 2437
+        },
+        {
+          "bodyId": "524088",
+          "side": "L",
+          "sourceSoma": [
+            50975.0,
+            9870.0,
+            28798.0
+          ],
+          "pixelCenter": [
+            361.468921,
+            174.5027295
+          ],
+          "skeletonSamples": 2586
+        }
+      ]
+    },
+    {
+      "type": "SMP544",
+      "role": "modeled downstream",
+      "layer": "layers/SMP544.png",
+      "count": 1,
+      "cells": [
+        {
+          "bodyId": "10525",
+          "side": "L",
+          "sourceSoma": [
+            50532.0,
+            9790.0,
+            27014.0
+          ],
+          "pixelCenter": [
+            364.90244975,
+            160.67560725
+          ],
+          "skeletonSamples": 9771
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Source coordinates are not mirrored, jittered or repositioned.",
+    "Layers contain official unmirrored SWC skeletons and separately annotated soma centers.",
+    "Grouped cell types are not assumed to have symmetric neuron counts.",
+    "BPN type membership is a candidate model mapping, not verified identity with the experimental driver.",
+    "Brightness/opacity is display design, not measured activity."
+  ],
+  "sourceWidth": 3072,
+  "sourceHeight": 4096
+}

@@ -1,0 +1,434 @@
+[
+  {
+    "body_id": "10035",
+    "type": "AstA1",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/10035.swc",
+    "sha256": "181959a46770eb0869cc02fcc7941e868a4e33775dcae5421cd6eb51d1cdb4aa",
+    "samples": 29449,
+    "status": "ok"
+  },
+  {
+    "body_id": "10045",
+    "type": "DNg100",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/10045.swc",
+    "sha256": "0d2f5eaa69ca35af1100ea2a88b4383b9b2887faa06b93f9398e810c3ca0bd66",
+    "samples": 23904,
+    "status": "ok"
+  },
+  {
+    "body_id": "10056",
+    "type": "DNg100",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/10056.swc",
+    "sha256": "ddff463d5ddaab83ae3a6b98bd72a662a3072c8d86b33d468b0d71c0d54db376",
+    "samples": 24387,
+    "status": "ok"
+  },
+  {
+    "body_id": "10166",
+    "type": "IB008",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/10166.swc",
+    "sha256": "dd7cdfafa2d1494ab0cb4461653a59027b202312d5eb86bf2fb12ac8f9742b8d",
+    "samples": 8277,
+    "status": "ok"
+  },
+  {
+    "body_id": "10202",
+    "type": "GNG103",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/10202.swc",
+    "sha256": "d52eacc7d53fd5a40806ad8a48f2fb7aadc029d3aa5b0a562bfa97abcd99e537",
+    "samples": 16487,
+    "status": "ok"
+  },
+  {
+    "body_id": "10299",
+    "type": "AstA1",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/10299.swc",
+    "sha256": "ebe88cca6c47d104ef2ffe06995f05ba759784693e64291103be32ec77c2e471",
+    "samples": 28234,
+    "status": "ok"
+  },
+  {
+    "body_id": "10368",
+    "type": "CRE004",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/10368.swc",
+    "sha256": "2e7d7928184facd76531c5fdacca24fb941424927da710d6c92eb822c8fa2bdd",
+    "samples": 10194,
+    "status": "ok"
+  },
+  {
+    "body_id": "10420",
+    "type": "GNG667",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/10420.swc",
+    "sha256": "c72df8e0387d69cf1e77212ef1bf2f2e85f25e9eaeb87c531b105a62677c69d1",
+    "samples": 15408,
+    "status": "ok"
+  },
+  {
+    "body_id": "10525",
+    "type": "SMP544",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/10525.swc",
+    "sha256": "3e61fce306b836012d22f2edfeacc2001a4f418bddb6e7b1969b67ad3a1f2ded",
+    "samples": 9771,
+    "status": "ok"
+  },
+  {
+    "body_id": "10840",
+    "type": "AN19B017",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/10840.swc",
+    "sha256": "618d9f0464819017b0f41b6ae38623dac062b44c6799ae4c07dadd9ad764c631",
+    "samples": 13502,
+    "status": "ok"
+  },
+  {
+    "body_id": "10844",
+    "type": "DNge053",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/10844.swc",
+    "sha256": "42e4cef83d9f4811ad389ae43e4d85cb66c61b6a8b6cfe6470b5b4db6a5cd5f4",
+    "samples": 16616,
+    "status": "ok"
+  },
+  {
+    "body_id": "11013",
+    "type": "LoVC3",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/11013.swc",
+    "sha256": "ea51a51b66c369cd41a64b5bdd17b4d6ae6afd8a52ebff8415f4fe10fdbe3d47",
+    "samples": 10241,
+    "status": "ok"
+  },
+  {
+    "body_id": "11064",
+    "type": "AN19B017",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/11064.swc",
+    "sha256": "cfcb6595cfea935f2b547a4f1433d577919aa62b97c3e91540e5181cacb5fb42",
+    "samples": 13386,
+    "status": "ok"
+  },
+  {
+    "body_id": "11208",
+    "type": "IB018",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/11208.swc",
+    "sha256": "723dfdb8987bd723e58723995d1d5ba3f2d8f4c26d70d9cacbff3a4c19a279f6",
+    "samples": 9675,
+    "status": "ok"
+  },
+  {
+    "body_id": "11965",
+    "type": "DNge053",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/11965.swc",
+    "sha256": "ac628d4f2da42a2127e94d8349e01e6431736dc70d938b0084951a53d93d5af9",
+    "samples": 15177,
+    "status": "ok"
+  },
+  {
+    "body_id": "13100",
+    "type": "CL209",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/13100.swc",
+    "sha256": "0fc0fd48f9e13eb550b30f75c354def4d92b6eeb94f6503edbe6c861c08fd767",
+    "samples": 2446,
+    "status": "ok"
+  },
+  {
+    "body_id": "13805",
+    "type": "DNg97",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/13805.swc",
+    "sha256": "e98763b4b0ff523b9368636b0c80116d55f5d6cbe48670a4dec5c7220c716f3a",
+    "samples": 12356,
+    "status": "ok"
+  },
+  {
+    "body_id": "17757",
+    "type": "AN19B001",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/17757.swc",
+    "sha256": "eab7d8e4053aa94853caf664d5571d8ba4635a0916833a62de731016eb4ba30a",
+    "samples": 17709,
+    "status": "ok"
+  },
+  {
+    "body_id": "18752",
+    "type": "CL208",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/18752.swc",
+    "sha256": "ab826af073ae9375ae1f1b4e8efe3011748c22b33dca37a3555d5c7d8121efa5",
+    "samples": 4314,
+    "status": "ok"
+  },
+  {
+    "body_id": "20418",
+    "type": "DNpe053",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/20418.swc",
+    "sha256": "6ebcd8b738cbaa68111df970c949d005275cdc9479d224db38daec97721c4c8e",
+    "samples": 14613,
+    "status": "ok"
+  },
+  {
+    "body_id": "24366",
+    "type": "SMP459",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/24366.swc",
+    "sha256": "2df5795b98838dbd56df8f087ae2c3a8f44d926d276fb88f6fcf2e1ba0da2f7f",
+    "samples": 3422,
+    "status": "ok"
+  },
+  {
+    "body_id": "26862",
+    "type": "IB008",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/26862.swc",
+    "sha256": "5e87d73736319d13f7f97df15febd819036a3aa372557347fc670062e425d324",
+    "samples": 9038,
+    "status": "ok"
+  },
+  {
+    "body_id": "29973",
+    "type": "CL208",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/29973.swc",
+    "sha256": "b7c29e63cca2662cf3de8542fcd236e8000cd5d905a3f6afcf61816bae29df55",
+    "samples": 4015,
+    "status": "ok"
+  },
+  {
+    "body_id": "41079",
+    "type": "SMP459",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/41079.swc",
+    "sha256": "a071cfacf97b76b3e51a24880210d64eb32db2158f388cb15c8cbaa07d9e860d",
+    "samples": 3632,
+    "status": "ok"
+  },
+  {
+    "body_id": "42886",
+    "type": "SMP461",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/42886.swc",
+    "sha256": "c14b548629cc4668da64c21b704a3efa94753335378d982290ed7884bb0ad4da",
+    "samples": 2192,
+    "status": "ok"
+  },
+  {
+    "body_id": "52439",
+    "type": "SMP460",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/52439.swc",
+    "sha256": "5447060db457851f47d9436b49b530d9d15d81d7e3f126b2d62af939f42e2024",
+    "samples": 2884,
+    "status": "ok"
+  },
+  {
+    "body_id": "52443",
+    "type": "SMP459",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/52443.swc",
+    "sha256": "ca4064de8a66a04942f2e2228af325461cb714b7119c1d34bf8e5b6d5dc2547d",
+    "samples": 3344,
+    "status": "ok"
+  },
+  {
+    "body_id": "63441",
+    "type": "EA06B010",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/63441.swc",
+    "sha256": "ec6b7812e44e6cee68461053113c870985505411fd98878678706c6d009d100a",
+    "samples": 10018,
+    "status": "ok"
+  },
+  {
+    "body_id": "71999",
+    "type": "SMP459",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/71999.swc",
+    "sha256": "0e5b0c71047604dd794e46328a5b19c14a4dbfc04e65588d8ac0cf02db863209",
+    "samples": 3470,
+    "status": "ok"
+  },
+  {
+    "body_id": "75379",
+    "type": "EA06B010",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/75379.swc",
+    "sha256": "6052bd066484f1ec4cb200b26a3bf0738a95c5ff117016a3a0003601425a744b",
+    "samples": 9830,
+    "status": "ok"
+  },
+  {
+    "body_id": "98403",
+    "type": "SMP459",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/98403.swc",
+    "sha256": "e2f8886a197eb6aab73c7494667bbc4c36c76d95dc355ff230768b686edb9b7f",
+    "samples": 3205,
+    "status": "ok"
+  },
+  {
+    "body_id": "104087",
+    "type": "SMP461",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/104087.swc",
+    "sha256": "08c8c22c8a5f2897f39e8e1a5f188ff303850b7365574a7fd5804d936c88215c",
+    "samples": 2637,
+    "status": "ok"
+  },
+  {
+    "body_id": "115463",
+    "type": "SMP461",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/115463.swc",
+    "sha256": "d731a30689928476dddbedbaecd4093f4147976398e1ad894c7b8bef79d922a4",
+    "samples": 2559,
+    "status": "ok"
+  },
+  {
+    "body_id": "118160",
+    "type": "SMP461",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/118160.swc",
+    "sha256": "fb38982f8741c8f0fa6a0cc07fdaec08ad8845ea3828201c986588ff057f3f08",
+    "samples": 2429,
+    "status": "ok"
+  },
+  {
+    "body_id": "147120",
+    "type": "SMP461",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/147120.swc",
+    "sha256": "78912fd51a8f412535032f2c85415c0fbbee497716733dcfc60ed09743e37c8c",
+    "samples": 2055,
+    "status": "ok"
+  },
+  {
+    "body_id": "158549",
+    "type": "SMP461",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/158549.swc",
+    "sha256": "4bbb518f640d69afdfaef08bef09058194e6715b1e4482d31a8755cf9f6980cf",
+    "samples": 2489,
+    "status": "ok"
+  },
+  {
+    "body_id": "196917",
+    "type": "SMP461",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/196917.swc",
+    "sha256": "7b7de466251adbfeaf1f4b44e98447ec7ae876da603e45626ace8a428a9ea906",
+    "samples": 2437,
+    "status": "ok"
+  },
+  {
+    "body_id": "512273",
+    "type": "PAL01",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/512273.swc",
+    "sha256": "9b786c227ae1455a0a8fb12c907a9cf853d11cfb666bace74bcee7e7ef038312",
+    "samples": 12218,
+    "status": "ok"
+  },
+  {
+    "body_id": "512718",
+    "type": "SMP459",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/512718.swc",
+    "sha256": "a51b823a4eb995024066ca8f10dddf998f7c7fd9d9af99d41174592652de9f87",
+    "samples": 3175,
+    "status": "ok"
+  },
+  {
+    "body_id": "513541",
+    "type": "CL208",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/513541.swc",
+    "sha256": "7b128226b089a1fa3f8c257f1b22fdc53e70003e63513019e452b375c5d3c2fa",
+    "samples": 4416,
+    "status": "ok"
+  },
+  {
+    "body_id": "514805",
+    "type": "SMP459",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/514805.swc",
+    "sha256": "349576e7e19c1e9e261c76783eb9dac1e5fd4957582cd9767ea247fb84a7d195",
+    "samples": 2777,
+    "status": "ok"
+  },
+  {
+    "body_id": "520065",
+    "type": "CL209",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/520065.swc",
+    "sha256": "51cc848520fbaa83ad9d860778f35196014bc51c449c3b1dcaba57b9de2c254c",
+    "samples": 2254,
+    "status": "ok"
+  },
+  {
+    "body_id": "520613",
+    "type": "LAL134",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/520613.swc",
+    "sha256": "d2464517799b26581be2e1c23f97abb4af50a17ce418f31b02664630f933aede",
+    "samples": 10605,
+    "status": "ok"
+  },
+  {
+    "body_id": "521028",
+    "type": "IB018",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/521028.swc",
+    "sha256": "2a0c137e689ed4021e0bb2f02c663558a9d714798b7525f166d3f876513c7141",
+    "samples": 9715,
+    "status": "ok"
+  },
+  {
+    "body_id": "522335",
+    "type": "IB010",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/522335.swc",
+    "sha256": "b5399548b5aec9fd5a99cf91b61136c13a43d892833589022a4a4243e3d723bb",
+    "samples": 7040,
+    "status": "ok"
+  },
+  {
+    "body_id": "522339",
+    "type": "SMP460",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/522339.swc",
+    "sha256": "bcbb9cf81e36fb3813488c4f17ecb3f0e9e1ac9b4f9a5bbb1caf9557586afce3",
+    "samples": 3143,
+    "status": "ok"
+  },
+  {
+    "body_id": "524088",
+    "type": "SMP461",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/524088.swc",
+    "sha256": "6b50937efc479c710a7c30ffb9870d1718b87be6b6ab0379a7284c67bf087718",
+    "samples": 2586,
+    "status": "ok"
+  },
+  {
+    "body_id": "530982",
+    "type": "CL208",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/530982.swc",
+    "sha256": "b2ef4bb92e14ca46a6412aca57f21f65dfe6060940920f67d9a0f392458cddf2",
+    "samples": 3141,
+    "status": "ok"
+  },
+  {
+    "body_id": "534477",
+    "type": "SMP459",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/534477.swc",
+    "sha256": "6b043facace7fd1ac506ed782c8f2ab1e597c775376ecd08c92590c6f9aafb8e",
+    "samples": 3576,
+    "status": "ok"
+  },
+  {
+    "body_id": "800296",
+    "type": "IN09A002",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/800296.swc",
+    "sha256": "8679f2131c0e6bce3bf6a5a0232d9fd4abe12cd8c96a9b19199c09d942da6e31",
+    "samples": 9253,
+    "status": "ok"
+  },
+  {
+    "body_id": "800434",
+    "type": "IN09A002",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/800434.swc",
+    "sha256": "adc232ce452f38c271c55c8b3dba71a980b216688b168a93f3b4064d0c47dd34",
+    "samples": 9597,
+    "status": "ok"
+  },
+  {
+    "body_id": "800685",
+    "type": "IN09A002",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/800685.swc",
+    "sha256": "720cf9145354a07818caed96a76a0cf5354dc76a402a5aecf2c51253746e4a60",
+    "samples": 8444,
+    "status": "ok"
+  },
+  {
+    "body_id": "800716",
+    "type": "IN09A002",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/800716.swc",
+    "sha256": "a552ad8aba58a7bd92389b8717aef277d09a76b7e3b06c561694c0b44d8317fd",
+    "samples": 8787,
+    "status": "ok"
+  },
+  {
+    "body_id": "941319",
+    "type": "IN12B003",
+    "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/941319.swc",
+    "sha256": "ff0c786351d34feeb183225c74ccb3861c108461bdd91092639fb9a070b97307",
+    "samples": 7726,
+    "status": "ok"
+  }
+]

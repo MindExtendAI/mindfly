@@ -1,0 +1,664 @@
+{
+  "dataset": "male-cns:v1.0",
+  "annotation_sha256": "2177e246113e4cfbf1e7772ec37c6da1955ff22e8063d0b1f833101f99a9a3b2",
+  "annotation_rows": 211577,
+  "exact_model_coordinate_matches": 54,
+  "exact_background_coordinate_matches": 141781,
+  "input_type_counts": {
+    "CL209": 2,
+    "CL208": 4,
+    "SMP459": 8,
+    "SMP461": 8,
+    "SMP460": 2
+  },
+  "neurons": [
+    {
+      "bodyId": 10035,
+      "type": "AstA1",
+      "somaSide": "L",
+      "somaLocation": [
+        59498,
+        36573,
+        19959
+      ],
+      "superclass": "cb_intrinsic",
+      "somaNeuromere": null
+    },
+    {
+      "bodyId": 10045,
+      "type": "DNg100",
+      "somaSide": "L",
+      "somaLocation": [
+        60784,
+        39259,
+        24368
+      ],
+      "superclass": "descending_neuron",
+      "somaNeuromere": null
+    },
+    {
+      "bodyId": 10056,
+      "type": "DNg100",
+      "somaSide": "R",
+      "somaLocation": [
+        36306,
+        40516,
+        24466
+      ],
+      "superclass": "descending_neuron",
+      "somaNeuromere": null
+    },
+    {
+      "bodyId": 10166,
+      "type": "IB008",
+      "somaSide": "L",
+      "somaLocation": [
+        60717,
+        25771,
+        18601
+      ],
+      "superclass": "cb_intrinsic",
+      "somaNeuromere": null
+    },
+    {
+      "bodyId": 10202,
+      "type": "GNG103",
+      "somaSide": "R",
+      "somaLocation": [
+        36693,
+        39264,
+        21735
+      ],
+      "superclass": "cb_intrinsic",
+      "somaNeuromere": null
+    },
+    {
+      "bodyId": 10299,
+      "type": "AstA1",
+      "somaSide": "R",
+      "somaLocation": [
+        38329,
+        39307,
+        22026
+      ],
+      "superclass": "cb_intrinsic",
+      "somaNeuromere": null
+    },
+    {
+      "bodyId": 10368,
+      "type": "CRE004",
+      "somaSide": "L",
+      "somaLocation": [
+        48081,
+        6774,
+        18285
+      ],
+      "superclass": "cb_intrinsic",
+      "somaNeuromere": null
+    },
+    {
+      "bodyId": 10420,
+      "type": "GNG667",
+      "somaSide": "L",
+      "somaLocation": [
+        50405,
+        42194,
+        37579
+      ],
+      "superclass": "cb_intrinsic",
+      "somaNeuromere": "LB"
+    },
+    {
+      "bodyId": 10525,
+      "type": "SMP544",
+      "somaSide": "L",
+      "somaLocation": [
+        50532,
+        9790,
+        27014
+      ],
+      "superclass": "cb_intrinsic",
+      "somaNeuromere": null
+    },
+    {
+      "bodyId": 10840,
+      "type": "AN19B017",
+      "somaSide": "R",
+      "somaLocation": [
+        38259,
+        47521,
+        84275
+      ],
+      "superclass": "ascending_neuron",
+      "somaNeuromere": "T1"
+    },
+    {
+      "bodyId": 10844,
+      "type": "DNge053",
+      "somaSide": "L",
+      "somaLocation": [
+        62950,
+        38586,
+        25745
+      ],
+      "superclass": "descending_neuron",
+      "somaNeuromere": null
+    },
+    {
+      "bodyId": 11013,
+      "type": "LoVC3",
+      "somaSide": "R",
+      "somaLocation": [
+        36278,
+        27106,
+        19419
+      ],
+      "superclass": "visual_centrifugal",
+      "somaNeuromere": null
+    },
+    {
+      "bodyId": 11064,
+      "type": "AN19B017",
+      "somaSide": "L",
+      "somaLocation": [
+        58065,
+        47227,
+        81226
+      ],
+      "superclass": "ascending_neuron",
+      "somaNeuromere": "T1"
+    },
+    {
+      "bodyId": 11208,
+      "type": "IB018",
+      "somaSide": "L",
+      "somaLocation": [
+        51771,
+        11553,
+        30138
+      ],
+      "superclass": "cb_intrinsic",
+      "somaNeuromere": null
+    },
+    {
+      "bodyId": 11965,
+      "type": "DNge053",
+      "somaSide": "R",
+      "somaLocation": [
+        36904,
+        40586,
+        23470
+      ],
+      "superclass": "descending_neuron",
+      "somaNeuromere": null
+    },
+    {
+      "bodyId": 13100,
+      "type": "CL209",
+      "somaSide": "L",
+      "somaLocation": [
+        50159,
+        8661,
+        27320
+      ],
+      "superclass": "cb_intrinsic",
+      "somaNeuromere": "CG"
+    },
+    {
+      "bodyId": 13805,
+      "type": "DNg97",
+      "somaSide": "L",
+      "somaLocation": [
+        52141,
+        45094,
+        21413
+      ],
+      "superclass": "descending_neuron",
+      "somaNeuromere": "MX"
+    },
+    {
+      "bodyId": 17757,
+      "type": "AN19B001",
+      "somaSide": "R",
+      "somaLocation": [
+        41667,
+        45697,
+        81360
+      ],
+      "superclass": "ascending_neuron",
+      "somaNeuromere": "T1"
+    },
+    {
+      "bodyId": 18752,
+      "type": "CL208",
+      "somaSide": "L",
+      "somaLocation": [
+        50606,
+        9037,
+        28181
+      ],
+      "superclass": "cb_intrinsic",
+      "somaNeuromere": "CG"
+    },
+    {
+      "bodyId": 20418,
+      "type": "DNpe053",
+      "somaSide": "R",
+      "somaLocation": [
+        45900,
+        8479,
+        26583
+      ],
+      "superclass": "descending_neuron",
+      "somaNeuromere": null
+    },
+    {
+      "bodyId": 24366,
+      "type": "SMP459",
+      "somaSide": "L",
+      "somaLocation": [
+        49588,
+        7268,
+        24648
+      ],
+      "superclass": "cb_intrinsic",
+      "somaNeuromere": "CG"
+    },
+    {
+      "bodyId": 26862,
+      "type": "IB008",
+      "somaSide": "R",
+      "somaLocation": [
+        36055,
+        24409,
+        17904
+      ],
+      "superclass": "cb_intrinsic",
+      "somaNeuromere": null
+    },
+    {
+      "bodyId": 29973,
+      "type": "CL208",
+      "somaSide": "R",
+      "somaLocation": [
+        46880,
+        11342,
+        27508
+      ],
+      "superclass": "cb_intrinsic",
+      "somaNeuromere": "CG"
+    },
+    {
+      "bodyId": 41079,
+      "type": "SMP459",
+      "somaSide": "L",
+      "somaLocation": [
+        50526,
+        7554,
+        27256
+      ],
+      "superclass": "cb_intrinsic",
+      "somaNeuromere": "CG"
+    },
+    {
+      "bodyId": 42886,
+      "type": "SMP461",
+      "somaSide": "L",
+      "somaLocation": [
+        52107,
+        11472,
+        28867
+      ],
+      "superclass": "cb_intrinsic",
+      "somaNeuromere": "CG"
+    },
+    {
+      "bodyId": 52439,
+      "type": "SMP460",
+      "somaSide": "L",
+      "somaLocation": [
+        50656,
+        8620,
+        27320
+      ],
+      "superclass": "cb_intrinsic",
+      "somaNeuromere": "CG"
+    },
+    {
+      "bodyId": 52443,
+      "type": "SMP459",
+      "somaSide": "R",
+      "somaLocation": [
+        46604,
+        7116,
+        23570
+      ],
+      "superclass": "cb_intrinsic",
+      "somaNeuromere": "CG"
+    },
+    {
+      "bodyId": 63441,
+      "type": "EA06B010",
+      "somaSide": "L",
+      "somaLocation": [
+        51437,
+        66196,
+        95955
+      ],
+      "superclass": "efferent_ascending",
+      "somaNeuromere": "T2"
+    },
+    {
+      "bodyId": 71999,
+      "type": "SMP459",
+      "somaSide": "L",
+      "somaLocation": [
+        49244,
+        7364,
+        24037
+      ],
+      "superclass": "cb_intrinsic",
+      "somaNeuromere": "CG"
+    },
+    {
+      "bodyId": 75379,
+      "type": "EA06B010",
+      "somaSide": "R",
+      "somaLocation": [
+        47951,
+        65216,
+        93851
+      ],
+      "superclass": "efferent_ascending",
+      "somaNeuromere": "T2"
+    },
+    {
+      "bodyId": 98403,
+      "type": "SMP459",
+      "somaSide": "R",
+      "somaLocation": [
+        46026,
+        7614,
+        24800
+      ],
+      "superclass": "cb_intrinsic",
+      "somaNeuromere": "CG"
+    },
+    {
+      "bodyId": 104087,
+      "type": "SMP461",
+      "somaSide": "L",
+      "somaLocation": [
+        49773,
+        7377,
+        26177
+      ],
+      "superclass": "cb_intrinsic",
+      "somaNeuromere": "CG"
+    },
+    {
+      "bodyId": 115463,
+      "type": "SMP461",
+      "somaSide": "R",
+      "somaLocation": [
+        46352,
+        10010,
+        26612
+      ],
+      "superclass": "cb_intrinsic",
+      "somaNeuromere": "CG"
+    },
+    {
+      "bodyId": 118160,
+      "type": "SMP461",
+      "somaSide": "R",
+      "somaLocation": [
+        46779,
+        8524,
+        25964
+      ],
+      "superclass": "cb_intrinsic",
+      "somaNeuromere": "CG"
+    },
+    {
+      "bodyId": 147120,
+      "type": "SMP461",
+      "somaSide": "R",
+      "somaLocation": [
+        46053,
+        7182,
+        25018
+      ],
+      "superclass": "cb_intrinsic",
+      "somaNeuromere": "CG"
+    },
+    {
+      "bodyId": 158549,
+      "type": "SMP461",
+      "somaSide": "R",
+      "somaLocation": [
+        47292,
+        8832,
+        25200
+      ],
+      "superclass": "cb_intrinsic",
+      "somaNeuromere": "CG"
+    },
+    {
+      "bodyId": 196917,
+      "type": "SMP461",
+      "somaSide": "L",
+      "somaLocation": [
+        50488,
+        6679,
+        26133
+      ],
+      "superclass": "cb_intrinsic",
+      "somaNeuromere": "CG"
+    },
+    {
+      "bodyId": 512273,
+      "type": "PAL01",
+      "somaSide": "L",
+      "somaLocation": [
+        65665,
+        12728,
+        19791
+      ],
+      "superclass": "cb_intrinsic",
+      "somaNeuromere": null
+    },
+    {
+      "bodyId": 512718,
+      "type": "SMP459",
+      "somaSide": "L",
+      "somaLocation": [
+        50047,
+        7695,
+        25948
+      ],
+      "superclass": "cb_intrinsic",
+      "somaNeuromere": "CG"
+    },
+    {
+      "bodyId": 513541,
+      "type": "CL208",
+      "somaSide": "L",
+      "somaLocation": [
+        52560,
+        10666,
+        28910
+      ],
+      "superclass": "cb_intrinsic",
+      "somaNeuromere": "CG"
+    },
+    {
+      "bodyId": 514805,
+      "type": "SMP459",
+      "somaSide": "R",
+      "somaLocation": [
+        46065,
+        6684,
+        22851
+      ],
+      "superclass": "cb_intrinsic",
+      "somaNeuromere": "CG"
+    },
+    {
+      "bodyId": 520065,
+      "type": "CL209",
+      "somaSide": "R",
+      "somaLocation": [
+        46306,
+        10994,
+        27536
+      ],
+      "superclass": "cb_intrinsic",
+      "somaNeuromere": "CG"
+    },
+    {
+      "bodyId": 520613,
+      "type": "LAL134",
+      "somaSide": "L",
+      "somaLocation": [
+        49766,
+        9373,
+        25948
+      ],
+      "superclass": "cb_intrinsic",
+      "somaNeuromere": null
+    },
+    {
+      "bodyId": 521028,
+      "type": "IB018",
+      "somaSide": "R",
+      "somaLocation": [
+        42740,
+        12878,
+        30123
+      ],
+      "superclass": "cb_intrinsic",
+      "somaNeuromere": null
+    },
+    {
+      "bodyId": 522335,
+      "type": "IB010",
+      "somaSide": "L",
+      "somaLocation": [
+        61598,
+        23326,
+        16954
+      ],
+      "superclass": "cb_intrinsic",
+      "somaNeuromere": null
+    },
+    {
+      "bodyId": 522339,
+      "type": "SMP460",
+      "somaSide": "R",
+      "somaLocation": [
+        46142,
+        8755,
+        26070
+      ],
+      "superclass": "cb_intrinsic",
+      "somaNeuromere": "CG"
+    },
+    {
+      "bodyId": 524088,
+      "type": "SMP461",
+      "somaSide": "L",
+      "somaLocation": [
+        50975,
+        9870,
+        28798
+      ],
+      "superclass": "cb_intrinsic",
+      "somaNeuromere": "CG"
+    },
+    {
+      "bodyId": 530982,
+      "type": "CL208",
+      "somaSide": "R",
+      "somaLocation": [
+        45907,
+        11302,
+        27281
+      ],
+      "superclass": "cb_intrinsic",
+      "somaNeuromere": "CG"
+    },
+    {
+      "bodyId": 534477,
+      "type": "SMP459",
+      "somaSide": "R",
+      "somaLocation": [
+        46834,
+        7585,
+        23935
+      ],
+      "superclass": "cb_intrinsic",
+      "somaNeuromere": "CG"
+    },
+    {
+      "bodyId": 800296,
+      "type": "IN09A002",
+      "somaSide": "L",
+      "somaLocation": [
+        62706,
+        52392,
+        89984
+      ],
+      "superclass": "vnc_intrinsic",
+      "somaNeuromere": "T2"
+    },
+    {
+      "bodyId": 800434,
+      "type": "IN09A002",
+      "somaSide": "L",
+      "somaLocation": [
+        61212,
+        49328,
+        120290
+      ],
+      "superclass": "vnc_intrinsic",
+      "somaNeuromere": "T3"
+    },
+    {
+      "bodyId": 800685,
+      "type": "IN09A002",
+      "somaSide": "L",
+      "somaLocation": [
+        60079,
+        53817,
+        64497
+      ],
+      "superclass": "vnc_intrinsic",
+      "somaNeuromere": "T1"
+    },
+    {
+      "bodyId": 800716,
+      "type": "IN09A002",
+      "somaSide": "R",
+      "somaLocation": [
+        41078,
+        46957,
+        122629
+      ],
+      "superclass": "vnc_intrinsic",
+      "somaNeuromere": "T3"
+    },
+    {
+      "bodyId": 941319,
+      "type": "IN12B003",
+      "somaSide": "L",
+      "somaLocation": [
+        51979,
+        62700,
+        83619
+      ],
+      "superclass": "vnc_intrinsic",
+      "somaNeuromere": "T1"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+# Dependencies and generated output
+/node_modules/
+/dist-standalone/
+/coverage/
+/rust/neural-engine/target/
+*.tsbuildinfo
+
+# Local configuration and credentials
+.env*
+*.pem
+.DS_Store
+npm-debug.log*
+
+# Local work, not part of the distribution
+/experiments/
+/outputs/
+/work/

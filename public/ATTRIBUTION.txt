@@ -1,0 +1,81 @@
+MindFly — sources, licenses and modeling notes
+
+MALE CNS NEURAL ANATOMY
+MaleCNS v1.0, Janelia Research Campus and collaborators.
+https://male-cns.janelia.org/
+https://male-cns.janelia.org/download/
+Dataset license: Creative Commons Attribution 4.0 International.
+https://creativecommons.org/licenses/by/4.0/
+
+This application's reduced JSON is derived from malecns-v1.0.flyb.gz,
+a packaged connectivity/annotation derivative distributed by:
+https://github.com/blendi-remade/fly-brain-minecraft
+Source commit: 6cfa30175003ef25da68a237d5eda958f8047b82
+Path: src/main/resources/connectome/malecns-v1.0.flyb.gz
+The input file's SHA-256 is retained in /data/malecns.json.
+That derivative filters neuron-to-neuron edges to >=5 synaptic contacts.
+Changes: reduced metadata and anatomical display-point export.
+141,781 soma coordinates provide anatomical context. The walking model contains
+54 neurons and 266 directed connections; the full CNS is not simulated.
+
+FLY BODY
+NeuroMechFly v2 assets, distributed by NeLy-EPFL/flygym under Apache 2.0.
+https://github.com/NeLy-EPFL/flygym
+https://doi.org/10.1038/s41592-024-02497-y
+Geometry and joint metadata were obtained through Xenova's hosted demo:
+https://huggingface.co/spaces/Xenova/fruit-fly-simulation
+Revision: 776d115ee5aa934578a87fd6d260d138084f59c1
+Directory: public/body/assets/
+Upstream adaptation: https://github.com/NeLy-EPFL/fly-svg-maker
+Changes here: Three.js rendering, materials, coordinate transforms,
+computed normals and illustrative wing poses. Mesh files are unchanged.
+Original NOTICE and Apache 2.0 license are in /fly/NOTICE and /fly/LICENSE.
+Body scan: female specimen; CNS data: male specimen.
+
+HUMAN BRAIN ILLUSTRATION
+/public/human-brain-illustration.png (served at /human-brain-illustration.png).
+Generated with OpenAI image generation from an original text-only prompt.
+No BrainBrowser mesh, screenshot or other reference image was supplied.
+Fixed-view grayscale educational illustration; not a scan, anatomical
+reconstruction, or EEG source-localization result. Original alpha preserved.
+The prompt and generation provenance are recorded in docs/human-brain-image.md.
+
+MUSE EEG AND FOCUS
+Muse connection uses muse-js 3.3.0 (MIT): https://github.com/urish/muse-js
+The EEG signal processing and focus implementation belongs to MindExtend AI LLC.
+It is distributed as a proprietary Rust/WebAssembly binary.
+See licenses/EEG-BINARY-NOTICE.txt.
+Bluetooth, waveforms and device-specific calibration storage run in the browser.
+Raw EEG is not uploaded. Focus is experimental feedback, not a validated test of
+attention. Signal loss, missing calibration or engine failure stops control.
+The neural simulation also runs in Rust/WASM without a JavaScript fallback.
+
+XENOVA ANIMATION CODE
+Four source modules are vendored unchanged from the pinned Xenova revision
+listed above: src/fly-appearance.js, src/wings.js, src/gait.js, src/body/fk.js.
+MIT license: /fly/XENOVA-LICENSE.txt. Forward kinematics, leg IK, folded wing
+poses, procedural surface detail and bristles support the walking visualization.
+MindFly uses its own walking controller and layout.
+
+BPN WALKING MODEL
+LIF dynamics adapted from blendi-remade/fly-brain-minecraft, commit
+6cfa30175003ef25da68a237d5eda958f8047b82 (MIT; licenses/fly-brain-minecraft.txt).
+MaleCNS anatomy and connectivity: Janelia FlyEM male-cns:v1.0, CC BY 4.0.
+Study: Bidaye et al. 2020, https://doi.org/10.1016/j.neuron.2020.07.032.
+54-cell stimulus-specific induced subgraph, 24 partial BPN candidates.
+Human EEG gating, walking direction and six-leg animation are authored mappings;
+no motor-neuron-to-muscle, force, or biological alpha-wave validation is claimed.
+
+STANDALONE WEBSITE DISTRIBUTION
+The /mindfly build includes THIRD_PARTY_DEPENDENCIES.md with the actual bundled
+JavaScript dependency licenses, plus /licenses/Geist-OFL.txt for the bundled
+Geist and Geist Mono fonts (SIL Open Font License 1.1).
+Local links in this document are relative to the MindFly deployment root.
+
+NEURON IMAGE LAYERS
+public/neural-layers/: projections of MaleCNS v1.0 anatomy and skeletons,
+CC BY 4.0. Credit: FlyEM / HHMI Janelia, University of Cambridge, MRC Laboratory
+of Molecular Biology, and Google Research. https://male-cns.janelia.org/download/
+Changes: 2D orthographic projection, sampling, grayscale rendering and grouping
+54 modeled cells into 25 overlay images. Projection details and body IDs are
+in neural-layers/manifest.json. These are derived images, not measured activity.

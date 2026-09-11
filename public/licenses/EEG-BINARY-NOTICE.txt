@@ -1,0 +1,5 @@
+Copyright (c) 2026 MindExtend AI LLC. All rights reserved.
+
+wasm/eeg-engine.wasm is a proprietary component supplied for use with MindFly.
+It is excluded from any Apache-2.0 license applied to the original application
+code. No license to its source code is granted.
